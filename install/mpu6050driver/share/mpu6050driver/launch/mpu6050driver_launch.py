@@ -6,6 +6,7 @@ from launch.substitutions import LaunchConfiguration
 
 import os
 
+# ros2 launch 
 
 def generate_launch_description():
     ld = LaunchDescription()
